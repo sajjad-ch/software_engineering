@@ -1,0 +1,10 @@
+# Ignore virtual environment
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore PyCharm IDE files
+.idea/
+
+# Ignore specific files
+final.txt
